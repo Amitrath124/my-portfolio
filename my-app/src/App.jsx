@@ -1,6 +1,7 @@
-import { Home } from "lucide-react"
+
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { NoteFound } from "./pages/NoteFound"
+import { Home } from "./pages/Home"
 
 
 
